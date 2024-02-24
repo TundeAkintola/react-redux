@@ -1,4 +1,4 @@
-# React Redux
+# REACT REDUX
 
 Official React bindings for [Redux](https://github.com/reduxjs/redux).
 Performant and flexible.
